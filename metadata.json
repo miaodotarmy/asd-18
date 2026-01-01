@@ -1,0 +1,57 @@
+{
+  "name": "MIMI",
+  "symbol": "MIMIM",
+  "description": "this is a test",
+  "image": "https://raw.githubusercontent.com/miaodotarmy/asd-18/gh-pages/public/token-image.png",
+  "properties": {
+    "category": "image",
+    "files": [
+      {
+        "uri": "https://raw.githubusercontent.com/miaodotarmy/asd-18/gh-pages/public/token-image.png",
+        "type": "image/png"
+      }
+    ]
+  },
+  "extensions": {
+    "website": "https://miaodotarmy.github.io/asd-18/",
+    "twitter": "https://twitter.com/asd-18/",
+    "telegram": "https://t.me/asd-18/",
+    "discord": "https://discord.gg/asd-18/"
+  },
+  "website": "https://miaodotarmy.github.io/asd-18/",
+  "twitter": "https://twitter.com/asd-18/",
+  "x": "https://twitter.com/asd-18/",
+  "telegram": "https://t.me/asd-18/",
+  "discord": "https://discord.gg/asd-18/",
+  "links": {
+    "website": "https://miaodotarmy.github.io/asd-18/",
+    "twitter": "https://twitter.com/asd-18/",
+    "telegram": "https://t.me/asd-18/",
+    "discord": "https://discord.gg/asd-18/"
+  },
+  "socials": {
+    "website": "https://miaodotarmy.github.io/asd-18/",
+    "twitter": "https://twitter.com/asd-18/",
+    "telegram": "https://t.me/asd-18/",
+    "discord": "https://discord.gg/asd-18/"
+  },
+  "attributes": [
+    {
+      "trait_type": "Twitter",
+      "value": "https://twitter.com/asd-18/"
+    },
+    {
+      "trait_type": "Telegram",
+      "value": "https://t.me/asd-18/"
+    },
+    {
+      "trait_type": "Discord",
+      "value": "https://discord.gg/asd-18/"
+    },
+    {
+      "trait_type": "Website",
+      "value": "https://miaodotarmy.github.io/asd-18/"
+    }
+  ],
+  "external_url": "https://miaodotarmy.github.io/asd-18/"
+}
